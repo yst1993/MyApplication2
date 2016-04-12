@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application2</string>
+    <string name="id_string">User ID</string>
+    <string name="product_string">Email</string>
+    <string name="quantity_string">Password</string>
+    <string name="add_string">Add</string>
+    <string name="find_string">Find</string>
+    <string name="delete_string">Delete</string>
+</resources>
